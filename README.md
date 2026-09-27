@@ -19,7 +19,7 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
   - A Grusa 4 has relatively high value per inventory cell, as the weapon takes up 6 cells. A fully-decked Grusa 4 with Vadoo scope and modern torch will be worth ~20K rubles per inventory cell (which is actually decent, but fully decked weapons are rare to find). A more modestly-decked Grusa 4 (with Spec scope+regular torch) is worth ~15K per cell, assuming 100% durability.
 - Higher tier armors (when repaired to 100%) and armor-piercing (BP/AP) ammo (full stacks) tend to offer the most value per inventory cell.
 - During mid/end-game, the items that a loot goblin takes back to sell should be worth at least 10K rubles per inventory cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
-- Because grenades now stack (v1.3.0+), 
+- Because grenades now stack (v1.3.0+), they also 
 
 ## Tips for the loot goblin
 
