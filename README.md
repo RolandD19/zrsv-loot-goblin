@@ -3,7 +3,7 @@
 The tables below should help the loot-goblin-min-max player (for money and XP). Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips below on dropping loot by extract).
 - _This is just an informational wiki (no mods) and based off the vanilla game._
 - _All the tables' info were taken from the game's JSON files._
-- Money is typically more of a concern for those playing on Hunter difficulty, less so for non-hardcore modes.
+- Money is typically more of a concern for those playing on Hunter difficulty, less so for non-hardcore difficulties.
 
 ## Item tables (with values per Inventory cell)
 
@@ -15,8 +15,9 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 - [Ammo](docs/ammo.md) - Sorted by full stack value
 - [Grenades](docs/grenade.md) - Sorted by full stack value
 - [Attachments/mods](docs/mod.md) - Sorted by full value
+- Backpacks -- Excluded because they oddly have an additional sell penalty (divide by 5), so the per-cell value of the best packpack found in raid (CC-03 worth 60000) is only 3000.
 - [All tables](docs/all-tables.md) - All tables on one page (each table collapsible)
-- As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%), if your goal is to sell them.
+- As you can see from the tables, compared to other items one can find in raid, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%), if your goal is to sell them.
   - A Grusa 4 has relatively high value per inventory cell, as the weapon takes up 6 cells. A fully-decked Grusa 4 with Vadoo scope and modern torch will be worth ~20K rubles per inventory cell (which is actually decent, but fully decked weapons are rare to find). A more modestly-decked Grusa 4 (with Spec scope+regular torch) is worth ~15K per cell, assuming 100% durability.
 - Higher tier armors (when repaired to 100%) and armor-piercing (BP/AP) ammo (full stacks) tend to offer the most value per inventory cell.
 - During mid/end-game, the items that a loot goblin takes back to sell should be worth at least 10K rubles per inventory cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
