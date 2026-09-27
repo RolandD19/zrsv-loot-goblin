@@ -408,7 +408,7 @@ Price/cell is for full stack
 <summary>Grenades</summary>
 
 Note #1: ~~Mine's full price is ₽4000.~~ (this applied when mines were 2x2 cells)<br/>
-Note #2: Some grenade stats thrown in (pun intended).
+Note #2: Some grenade stats thrown in (pun intended).<br/>
 Note #3: Mines stack as of v1.3.0(?), so first column is full stack value/cell.
 
 ₽/cell | ₽/item | throw_max | fuse_time | damage_max | radius_max_damage | name | label
