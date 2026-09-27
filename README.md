@@ -15,10 +15,11 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 - [Ammo](docs/ammo.md) - Sorted by full stack value
 - [Grenades](docs/grenade.md) - Sorted by value
 - [All tables](docs/all-tables.md) - All tables on one page (each table collapsible)
-- As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%) - if your goal is to sell them.
-  - A Grusa 4 has relatively high value per inventory cell. A fully-decked Grusa 4 with Vadoo scope and modern torch will be worth ~20K rubles per inventory cell (which is actually decent, but fully decked weapons are rare to find). A more modestly-decked Grusa 4 (with Spec scope+regular torch) is worth ~15K per cell, assuming 100% durability.
-- Higher tier armors (when repaired to 100%) and full armor-piercing (BP/AP) ammo stacks tend to offer the most value (per inventory cell).
-- During mid/end-game, the items that a loot goblin takes back to sell should be worth at least 10K rubles per inventory cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 rubles respectively.
+- As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%), if your goal is to sell them.
+  - A Grusa 4 has relatively high value per inventory cell, as the weapon takes up 6 cells. A fully-decked Grusa 4 with Vadoo scope and modern torch will be worth ~20K rubles per inventory cell (which is actually decent, but fully decked weapons are rare to find). A more modestly-decked Grusa 4 (with Spec scope+regular torch) is worth ~15K per cell, assuming 100% durability.
+- Higher tier armors (when repaired to 100%) and armor-piercing (BP/AP) ammo (full stacks) tend to offer the most value per inventory cell.
+- During mid/end-game, the items that a loot goblin takes back to sell should be worth at least 10K rubles per inventory cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
+- Because grenades now stack (v1.3.0+), 
 
 ## Tips for the loot goblin
 
@@ -36,17 +37,17 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 ## XP and other min/maxing
 
 - [NPC/mob table](docs/npc.md) - Maximize XP with minimal bullets!
-- You can **switch out** your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as those give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like the bunker traders (7AM).
-- As for scrapping weapons and armor, the amount of material produced is proportional to the item's value multiplied by its durability.
+- You can **switch out** your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym (as those give in-raid buffs). When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like the bunker traders (7AM). I leave in Forge so I can scrap if needed during the raid.
+- As for scrapping weapons and armor, the amount of material produced is proportional to the item's value multiplied by its durability. 
 
 <details>
 <summary>More on XP with slight spoilers</summary>
-I haven't done the math but - because of the **high XP from rotfangs** - I think clearing the Swamp map's sewer will give about as much XP as clearing the Makeshift Camp's laboratory (even including the second lab area that has multiple infestations).
+I haven't done the math but - because of the **high XP from rotfangs** - I think clearing the Swamp map's sewer will give about as much XP as clearing the Makeshift Camp's laboratory (even including the second lab area that has multiple infestations). Rotfangs' XP gain is unbalanced for now, so take advantage while you can!
 </details>
 
 ## Other useful tables:
 
-- [Difficulty settings](docs/difficulty.md) - Compare the difficulty settings (these have not been updated for v1.3.3)
+- [Difficulty settings](docs/difficulty.md) - Compare the difficulty settings; not updated for v1.3.3
 - [Gun mastery/skills table](docs/gun-skills.md) - Full description of all gun mastery skills, organized a bit differently than the wiki's [Gun Mastery](https://zero-sievert.fandom.com/wiki/Gun_Mastery) page.
 
 My other GitHub ZERO Sievert resources:
