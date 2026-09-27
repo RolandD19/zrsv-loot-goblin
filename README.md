@@ -1,4 +1,4 @@
-# ZERO Sievert Tables and Guides (zsrv-loot-goblin)
+# ZERO Sievert tables and guides (zsrv-loot-goblin)
 
 The tables below should help the loot-goblin-min-max player (for money and XP). Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips below on dropping loot by extract).
 - _This is just an informational wiki (no mods) and based off the vanilla game._
