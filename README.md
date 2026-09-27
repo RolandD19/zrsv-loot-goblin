@@ -13,7 +13,8 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor](docs/armor.md) - Sorted by value
 - [Ammo](docs/ammo.md) - Sorted by full stack value
-- [Grenades](docs/grenade.md) - Sorted by value
+- [Grenades](docs/grenade.md) - Sorted by full stack value
+- [Attachments/mods](docs/mod.md) -- Sorted by full value
 - [All tables](docs/all-tables.md) - All tables on one page (each table collapsible)
 - As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%), if your goal is to sell them.
   - A Grusa 4 has relatively high value per inventory cell, as the weapon takes up 6 cells. A fully-decked Grusa 4 with Vadoo scope and modern torch will be worth ~20K rubles per inventory cell (which is actually decent, but fully decked weapons are rare to find). A more modestly-decked Grusa 4 (with Spec scope+regular torch) is worth ~15K per cell, assuming 100% durability.
