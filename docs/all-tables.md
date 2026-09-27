@@ -215,7 +215,7 @@ Note #2: Injectors, certain repair kits and electronics seem most valuable.
 </details>
 
 <details>
-<summary>Weapon values</summary>
+<summary>Weapons</summary>
 
 Note #1: The value of a weapon is adjusted by its durability (directly multiplication). For example, a weapon at 50% durability will be worth 50% of its full value.
 
@@ -681,5 +681,4 @@ Note #2: Unfortunately, I haven't gotten around to pricing these per inventory c
 180 | 20 | 0 | mod_pp91_magazine_1 | BB 91 20 round magazine
 120 | 10 | 0 | mod_sks_magazine_10 | MKM 10 round magazine
 100 | 35 | 0 | mod_ppsh_magazine_1 | BBsH standard magazine
-
 </details>
