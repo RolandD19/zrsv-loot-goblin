@@ -423,7 +423,7 @@ Note #3: Mines stack as of v1.3.0(?), so first column is full stack value/cell.
 </details>
 
 <details>
-<summary>Attachements/mods</summary>
+<summary>Attachments/mods</summary>
 
 Note #1: Oddly, some of foregrips used to have different labels but now a bunch are just 'foregrip'.<br/>
 Note #2: Unfortunately, I haven't gotten around to pricing these per inventory cell, so you'll have to do the arithmetic yourself ;-). However, most mods' values are lower than the good generic items one can often find in raid. Given the rarity of finding the good mods, their values should be made higher.
