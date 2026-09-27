@@ -1,7 +1,7 @@
 # Miscellaneous loot items
 
 Note #1: Sorted by rubles (₽) per inventory cell.<br/>
-Note #2: Injectors, certain repair kits and electronics seem most valuable.
+Note #2: Injectors, certain repair kits and electronics seem most valuable.<br/>
 Note #3: Some items here stack which I haven't accounted for. E.g., a full stack of Wilfon cigarettes is worth 5*5000 = 25000, making such a stack one of most valuable items one can take back from a raid.
 
 ₽/cell | ₽ | type | name | label
