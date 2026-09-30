@@ -70,7 +70,7 @@ id | filename | track name
 :--|:--|:--
 kyle_campfire_guitar | snd_radio_kyle_campfire_guitar.ogg | my_home_the_zone
 
-At the moment, the only way to access the remaining tracks is to either add them to your save file (`save_shared_[123].dat`) or more simply, unlock them in the `radio_music.json` file, which resides in `Program Files (x86)/Steam/steamapps/common/ZERO Sievert/ZS_vanilla/gamedata`.
+At the moment, the only way to access the remaining tracks is to either add them to your save file (`save_shared_[123].dat`) or more simply, unlock them in the `radio_music.json` file, which resides two subfolders under the game's root folder, e.g., `Program Files (x86)/Steam/steamapps/common/ZERO Sievert/ZS_vanilla/gamedata`.
 - To unlock the rest, just open `radio_music.json` in Notepad, and find/replace all instances of `false` to `true`.
 
 If you want to listen to **your own** OGG tracks:
