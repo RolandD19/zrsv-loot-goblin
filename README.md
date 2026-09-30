@@ -96,7 +96,7 @@ For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/
 	
 Enjoy!
 
-Here are the radio filenames that are currently locked:
+Here are the radio filenames that are locked by default:
 filename|
 :--|
 snd_radio_Igor_MondayBlues.ogg  |
