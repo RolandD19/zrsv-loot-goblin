@@ -84,7 +84,7 @@ For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/
 4. Open the Sounds entry. You'll see only the music/radio resources.
 5. Double click on one of the entries (as a template for your new sound resource).
 6. Then, right click on the Sound line itself and click on Add (it's the only available action).
-7. Give it a name following the same format, e.g., `snd_radio_U2_JoshuaTree` .
+7. Give it a name following the same format, e.g., `snd_radio_U2_WithorWithoutYou` .
 8. Set the non-name fields/checkboxes to match the template you opened up in step #5.
     1. For "File", best to keep same as "Name", but append `.ogg`, e.g., `snd_radio_U2_JoshuaTree`.
     2. For "Audio group", you'll need to clear that upper left search bar (where you presumably typed in "snd\_radio" and then open up the "Audio groups". From there, you can drag the "audiogroup\_default" into your new entry.
