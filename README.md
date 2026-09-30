@@ -74,7 +74,7 @@ At the moment, the only way to access the remaining tracks is to either add them
 - To unlock the rest, just open `radio_music.json` in Notepad, and find/replace all instances of `false` to `true`.
 
 If you want to listen to **your own** OGG tracks:
-1. Just overwrite one of the OGG files that your player's save has access to. If you unlock all tracks, then just overwrite any one of the the audio files. All the OGG files are the game's root folder: `Program Files (x86)/Steam/steamapps/common/ZERO Sievert` .
+1. Just overwrite one of the OGG files that your player's save has access to. If you unlock all tracks, then just overwrite any one of the the audio files. All the OGG files are the game's root folder, e.g., `Program Files (x86)/Steam/steamapps/common/ZERO Sievert`.
 2. If you instead want to be able to play _all_ the original audio files and add your own. Wellll, that's a bit more involved. Monkeying with the JSON game files isn't enough. The main game file `data.win` needs to know about the OGG audio file (hard-coded).
 
 For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/UndertaleModTool):
