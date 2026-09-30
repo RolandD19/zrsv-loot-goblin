@@ -87,8 +87,8 @@ For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/
 7. Give it a name following the same format, e.g., `snd_radio_U2_JoshuaTree` .
 8. Fill in the fields, having them match the template you opened up in step #5.
 
-   i. For "File", best to keep same name. Also, append `.ogg`, e.g., `snd_radio_U2_JoshuaTree`.
-   ii. For "Audio group", you'll need to clear that upper left search bar (where you presumably typed in "snd\_radio" and then open up the "Audio groups". From there, you can drag the "audiogroup\_default" into your new entry.
+   a. For "File", best to keep same name. Also, append `.ogg`, e.g., `snd_radio_U2_JoshuaTree`.
+   b. For "Audio group", you'll need to clear that upper left search bar (where you presumably typed in "snd\_radio" and then open up the "Audio groups". From there, you can drag the "audiogroup\_default" into your new entry.
 9. Make sure to save the `data.win` file!
 10. Next, you'll need to add the new entry into `radio_music.json` file. You can do so in Notepad. 
     - I recommend adding your new entry near the end, after the `"theloners_trainstation"` entry. Just make a copy of it and make sure to end the previous entry with a comma.
