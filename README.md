@@ -86,6 +86,7 @@ For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/
 6. Then, right click on the Sound line itself and click on Add (it's the only available action).
 7. Give it a name following the same format, e.g., `snd_radio_U2_JoshuaTree` .
 8. Fill in the fields, having them match the template you opened up in step #5.
+
    i. For "File", best to keep same name. Also, append `.ogg`, e.g., `snd_radio_U2_JoshuaTree`.
    ii. For "Audio group", you'll need to clear that upper left search bar (where you presumably typed in "snd\_radio" and then open up the "Audio groups". From there, you can drag the "audiogroup\_default" into your new entry.
 9. Make sure to save the `data.win` file!
