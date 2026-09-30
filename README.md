@@ -67,7 +67,7 @@ igor_windowglance | snd_radio_Igor_WindowGlance.ogg | window_glance
 The cassette in the forest bunker has the following track (which you can add to the radio):
 
 id | filename | track name
-:--|:--
+:--|:--|:--
 kyle_campfire_guitar | snd_radio_kyle_campfire_guitar.ogg | my_home_the_zone
 
 At the moment, the only way to access the remaining tracks is to either add them to your save file (`save_shared_[123].dat`) or more simply, unlock them in the `radio_music.json` file, which resides in `Program Files (x86)/Steam/steamapps/common/ZERO Sievert/ZS_vanilla/gamedata`.
@@ -115,8 +115,9 @@ snd_radio_TheLoners_TrainStation.og |
 - [Difficulty settings](docs/difficulty.md) - Compare the difficulty settings; not yet updated for v1.3.0+
 - [Gun mastery/skills table](docs/gun-skills.md) - Full description of all gun mastery skills, organized a bit differently than the wiki's [Gun Mastery](https://zero-sievert.fandom.com/wiki/Gun_Mastery) page.
 
-My other GitHub ZERO Sievert resources:
-- [Custom maps](https://github.com/RolandD19/zrsv-maps) -- Proof-of-concept for custom (AI-generated) maps
+## My other GitHub ZERO Sievert resources:
+
+[Custom maps](https://github.com/RolandD19/zrsv-maps) -- Proof-of-concept for custom (AI-generated) maps
 
 <!-- ## Prev test -->
 
