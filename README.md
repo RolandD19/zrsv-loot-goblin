@@ -54,10 +54,10 @@ I haven't done the math but - because of the **high XP from rotfangs** - I think
 There are 20 music tracks packaged with ZERO Sievert; one extra OGG file appears unused. The follow tracks are automatically unlocked:
 
 id | filename | track name
-:--|:--
-theloners_colours | snd_radio_TheLoners_Colours.ogg
-theloners_fireplacefolk | snd_radio_TheLoners_FireplaceFolk.ogg
-theloners_lazysunday | snd_radio_TheLoners_LazySunday.ogg
+:--|:--|:--
+theloners_colours | snd_radio_TheLoners_Colours.ogg | colours
+theloners_fireplacefolk | snd_radio_TheLoners_FireplaceFolk.ogg | fireplace_folk
+theloners_lazysunday | snd_radio_TheLoners_LazySunday.ogg | lazy_sunday
 main_menu_1 | snd_radio_main_menu_1.ogg | hunters_guitar_track
 main_menu_2 | snd_radio_main_menu_2.ogg | zero_sievert_ost
 igor_appletree | snd_radio_Igor_AppleTree.ogg | apple_tree
