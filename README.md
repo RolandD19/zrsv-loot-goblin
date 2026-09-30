@@ -51,7 +51,7 @@ I haven't done the math but - because of the **high XP from rotfangs** - I think
 
 ## More (or your own) radio music
 
-There are 20 music tracks packaged with ZERO Sievert; one extra OGG file appears unused. Currently, the follow 8 tracks are automatically unlocked:
+There are 20 music tracks packaged with ZERO Sievert; one extra OGG file appears unused. Currently, the following 8 tracks are unlocked by default:
 
 id | filename | track name
 :--|:--|:--
