@@ -49,9 +49,9 @@ I haven't done the math but - because of the **high XP from rotfangs** - I think
 
 </details>
 
-## Your own radio music
+## More (or your own) radio music
 
-There are 20 music tracks packaged with ZERO Sievert; one extra OGG file appears unused. The follow tracks are automatically unlocked:
+There are 20 music tracks packaged with ZERO Sievert; one extra OGG file appears unused. Currently, the follow 8 tracks are automatically unlocked:
 
 id | filename | track name
 :--|:--|:--
@@ -73,9 +73,9 @@ kyle_campfire_guitar | snd_radio_kyle_campfire_guitar.ogg | my_home_the_zone
 At the moment, the only way to access the remaining tracks is to either add them to your save file (`save_shared_[123].dat`) or more simply, unlock them in the `radio_music.json` file, which resides in `Program Files (x86)/Steam/steamapps/common/ZERO Sievert/ZS_vanilla/gamedata`.
 - To unlock the rest, just open `radio_music.json` in Notepad, and find/replace all instances of `false` to `true`.
 
-If you want to listen to your own OGG tracks:
+If you want to listen to **your own** OGG tracks:
 1. Just overwrite one of the OGG files that your player's save has access to. If you unlock all tracks, then just overwrite any one of the the audio files. All the OGG files are the game's root folder: `Program Files (x86)/Steam/steamapps/common/ZERO Sievert` .
-2. If you be able to play _all_ the original audio files and add your own. Wellll, that's a bit more involved. Monkeying with the JSON game files isn't enough. The main game file `data.win` needs to know about the OGG audio file (hard-coded).
+2. If you instead want to be able to play _all_ the original audio files and add your own. Wellll, that's a bit more involved. Monkeying with the JSON game files isn't enough. The main game file `data.win` needs to know about the OGG audio file (hard-coded).
 
 For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/UndertaleModTool):
 1. First make a backup of the `data.win` file.
@@ -86,8 +86,8 @@ For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/
 6. Then, right click on the Sound line itself and click on Add (it's the only available action).
 7. Give it a name following the same format, e.g., `snd_radio_U2_JoshuaTree` .
 8. Fill in the fields, having them match the template you opened up in step #5.
-   a. For "File", best to keep same name. Also, append `.ogg`, e.g., `snd_radio_U2_JoshuaTree`.
-   b. For "Audio group", you'll need to clear that upper left search bar (where you presumably typed in "snd\_radio" and then open up the "Audio groups". From there, you can drag the "audiogroup\_default" into your new entry.
+   i. For "File", best to keep same name. Also, append `.ogg`, e.g., `snd_radio_U2_JoshuaTree`.
+   ii. For "Audio group", you'll need to clear that upper left search bar (where you presumably typed in "snd\_radio" and then open up the "Audio groups". From there, you can drag the "audiogroup\_default" into your new entry.
 9. Make sure to save the `data.win` file!
 10. Next, you'll need to add the new entry into `radio_music.json` file. You can do so in Notepad. 
     - I recommend adding your new entry near the end, after the `"theloners_trainstation"` entry. Just make a copy of it and make sure to end the previous entry with a comma.
