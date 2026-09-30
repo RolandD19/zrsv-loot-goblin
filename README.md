@@ -93,6 +93,7 @@ For that, you need [UTMT (UnderTaleModTool)](https://github.com/UnderminersTeam/
     - I recommend adding your new entry near the end, after the `"theloners_trainstation"` entry. Just make a copy of it and make sure to end the previous entry with a comma.
     - The `name` and `artist` fields don't matter, but everything else needs to line up with what you did in `data.win`. Also, I recommend keeping the lower/uppercase conventions, in the names and ids.
 	- If you set `"unlocked_by_default": true`, you won't need to monkey with the save file to have your player access the track.
+11. If you need to debug the steps, I recommend first setting all the tracks in `radio_music.json` to false (locked), except for your own and one other (game) track. This way, you can easily cycle between a known-good track and yours.
 	
 Enjoy!
 
