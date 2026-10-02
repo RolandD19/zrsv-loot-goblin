@@ -98,6 +98,8 @@ If you need to debug the above steps, I recommend first setting all the tracks i
 	
 Enjoy!
 
+Some or all of the above might be do-able using Nexus Mods (e.g., Senjay's Json Override Framework and External Audio Framework).
+
 Here are the radio filenames that are locked by default:
 filename|
 :--|
